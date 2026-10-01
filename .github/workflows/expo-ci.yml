@@ -2,7 +2,7 @@ name: Expo CI
 
 on:
   push:
-    branches: [main]
+  branches: [main, feature/products]
   pull_request:
     branches: [main]
 
