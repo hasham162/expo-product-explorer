@@ -39,7 +39,7 @@ export default function HomeScreen() {
           </ThemedText>
         </ThemedView>
 
-        <ThemedText type="subtitle">Hasham Munawar - Roll No: 23</ThemedText><ThemedText type="subtitle">Hasham Munawar - Roll No: 23I3099</ThemedText><ThemedText type="code" style={styles.code}> 
+        <ThemedText type="subtitle"Hasham Munawar - Roll No: 23</ThemedText><ThemedText type="subtitle">Hasham Munawar - Roll No: 23I3099</ThemedText><ThemedText type="code" style={styles.code}> 
           get started
         </ThemedText>
 
